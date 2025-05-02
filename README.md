@@ -8,7 +8,6 @@ The **Whisky Finder via Image** is a Streamlit-based application that uses AI to
 ### Features:
 - 🖼️ **Upload a bottle image** and receive a detailed description of the whisky profile.
 - 🥃 **Find similar whiskies** based on the image description.
-- 🔍 **Explore whisky attributes** like distillery, region, and price for the closest matches.
 - 📊 **AI-powered whisky profile summarization** for easy comparison.
 
 ## Installation
