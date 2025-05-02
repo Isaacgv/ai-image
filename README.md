@@ -62,7 +62,7 @@ To run the Whisky Finder via Image, follow these steps:
    ![Screen 2](images/2.png)
 
 ## Video Demo
-   [Watch the video](vision.mp4)
+   [Watch the video in .mp4](vision.mp4)
    
 ---
 
